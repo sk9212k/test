@@ -1,2 +1,2 @@
 this is second file
-this is another line added to the b.txt
+this is another line added to the b.txt made in ubuntu
