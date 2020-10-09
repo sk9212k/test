@@ -1,1 +1,2 @@
-hello! this is sample file in local macine
+hello! this is sample file in local machine.
+This line has been added today
